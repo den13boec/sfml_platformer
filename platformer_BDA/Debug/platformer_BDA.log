@@ -1,0 +1,23 @@
+﻿  main.cpp
+c:\users\денис\документы\visual studio 2015\projects\platformer_bda\platformer_bda\map.h(22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\денис\документы\visual studio 2015\projects\platformer_bda\platformer_bda\main.cpp(42): warning C4305: аргумент: усечение из "double" к "float"
+c:\users\денис\документы\visual studio 2015\projects\platformer_bda\platformer_bda\main.cpp(44): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\денис\документы\visual studio 2015\projects\platformer_bda\platformer_bda\main.cpp(53): warning C4305: =: усечение из "double" к "float"
+c:\users\денис\документы\visual studio 2015\projects\platformer_bda\platformer_bda\main.cpp(58): warning C4305: =: усечение из "double" к "float"
+c:\users\денис\документы\visual studio 2015\projects\platformer_bda\platformer_bda\main.cpp(63): warning C4305: =: усечение из "double" к "float"
+c:\users\денис\документы\visual studio 2015\projects\platformer_bda\platformer_bda\main.cpp(71): warning C4305: =: усечение из "double" к "float"
+c:\users\денис\документы\visual studio 2015\projects\platformer_bda\platformer_bda\main.cpp(117): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\денис\документы\visual studio 2015\projects\platformer_bda\platformer_bda\main.cpp(123): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\денис\документы\visual studio 2015\projects\platformer_bda\platformer_bda\main.cpp(137): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\денис\документы\visual studio 2015\projects\platformer_bda\platformer_bda\main.cpp(138): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\денис\документы\visual studio 2015\projects\platformer_bda\platformer_bda\main.cpp(145): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\денис\документы\visual studio 2015\projects\platformer_bda\platformer_bda\main.cpp(147): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\денис\документы\visual studio 2015\projects\platformer_bda\platformer_bda\main.cpp(219): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\денис\документы\visual studio 2015\projects\platformer_bda\platformer_bda\main.cpp(222): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\денис\документы\visual studio 2015\projects\platformer_bda\platformer_bda\main.cpp(276): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\денис\документы\visual studio 2015\projects\platformer_bda\platformer_bda\main.cpp(284): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\денис\документы\visual studio 2015\projects\platformer_bda\platformer_bda\main.cpp(331): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\денис\документы\visual studio 2015\projects\platformer_bda\platformer_bda\main.cpp(347): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\денис\документы\visual studio 2015\projects\platformer_bda\platformer_bda\main.cpp(355): warning C4715: startGame: значение возвращается не при всех путях выполнения
+  platformer_BDA.vcxproj -> C:\Users\Денис\Документы\Visual Studio 2015\Projects\platformer_BDA\Debug\platformer_BDA.exe
+  platformer_BDA.vcxproj -> C:\Users\Денис\Документы\Visual Studio 2015\Projects\platformer_BDA\Debug\platformer_BDA.pdb (Full PDB)
